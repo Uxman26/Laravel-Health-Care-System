@@ -1,0 +1,1509 @@
+@media screen and (max-width:1899px){
+    input.hhd-srch {
+        width: 528px;
+        height: 64px;
+    }
+}
+/* ------------------1899px-----------------  */
+
+
+
+@media screen and (max-width:1699px){
+    .exp-date ul{
+        flex-wrap: wrap;
+    }
+    .exp-date ul li label{
+        margin-top: 4px;
+    }
+    .fill-box label {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .fill-box input {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .fill-box-file h3 {
+        font-size: 15px;
+        line-height: 34px;
+        color: #6d6d6d;
+    }
+    input.hhd-srch {
+        width: 429px;
+    }
+
+    .lft-bar-inr ul li a {
+        padding: 30px 14px 30px 66px;
+    }
+    .exp-date ul li label {
+        margin-right: 6px;
+        font-size: 16px;
+        line-height: 22px;
+        min-width: 128px;
+    }
+
+    .left-bar a.logo-header{
+        width: 196px;
+    height: 48px;
+    }
+    .hdr-date h3,
+    .hd-r8-name h3{
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .hdr-date p,
+    .hd-r8-name p{
+        font-size: 18px;
+        line-height: 19px;
+    }
+    .right-page {
+        margin-top: 78px;
+        padding: 41px 66px 119px 30px;
+        width: 78.75%;
+    }
+    .header-r8 {
+        width: 80.75%;
+    }
+    .hd-r8-img {
+        width: 66px;
+        height: 66px;
+    }
+    header {
+        padding: 6px 50px;
+    }
+    .left-bar {
+        width: 20.25%;
+    }
+    .lft-bar-inr ul li a {
+        font-size: 17px;
+        line-height: 19px;
+        padding: 22px 10px 22px 58px;
+    }
+    .lft-bar-inr ul li a img {
+        display: block;
+        width: 22px;
+        height: 22px;
+        margin-right: 10px;
+        transition: all 0.5s ease;
+    }
+    .lft-bar-inr {
+        margin-top: 107px;
+    }
+    .r8-page-heading h2 {
+        font-size: 23px;
+        line-height: 27px;
+    }
+    .r8-page-heading p {
+        font-size: 16px;
+        line-height: 16px;
+    }
+    .r8-page-heading h4 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .empl h3 {
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .empl-box label {
+        font-size: 15px;
+        line-height: 20px;
+    }
+    .empl-box h3{        
+    font-size: 16px;
+    line-height: 19px;
+    }
+
+    .exp-date h3 {
+        font-size: 17px;
+        line-height: 22px;
+        margin-bottom: 15px;
+        width: 171px;
+        height: 49px;
+    }
+    a.add-more {
+        width:273px;
+        height: 48px;
+        font-size:19px;
+        line-height: 25px;
+        border: 2.5px dashed #0072BC;
+        padding: 10px;
+    }
+    button.fill-submit {
+        width: 215px;
+        height: 55px;
+        font-weight: 600;
+        font-size: 19px;
+        line-height: 24px;
+    }
+    .fill-grand h2 {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .fill-grand .empl-box input {
+        padding: 10px 200px 10px 10px;
+        font-weight: 700;
+        font-size: 25px;
+        line-height: 38px;
+    }
+    .fill-box input {
+        height: 50px;
+    }
+    .fill-box-file {
+        height: 50px;
+    }
+    .fill-box input {
+        border: 0.5px solid #00000069;
+    }
+    .fill-date.fill-box input {
+        padding: 10px 28px 10px 10px;
+        background-size: 21px;
+        background-position: 94% center;
+    }
+    .fill-inr-box h4 {
+        font-size: 20px;
+        line-height: 20px;
+    }
+    .fill-box-file {
+        border: 0.5px solid #00000069;
+    }
+}
+
+
+/* ------------------1699px-----------------  */
+
+@media screen and (max-width:1599px){
+
+    .lft-bar-inr ul li a {
+        padding: 30px 14px 30px 32px;        
+    font-size: 19px;
+    line-height: 24px;
+    }
+    .lft-bar-inr ul li a img {
+        width: 25px;
+        height: 25px;
+        margin-right: 14px;
+    }
+    .exp-date h3 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 15px;
+        width: 167px;
+        height: 49px;
+    }
+    .exp-date h3 img {
+        display: block;
+        width: 21px;
+        height: 21px;
+    }
+    .empl-box h3, .empl-box input {
+        padding: 8px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .empl-box label {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .empl h3 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 10px;
+    }
+    .r8-page-heading h4 {
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .r8-page-heading p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .r8-page-heading h2 {
+        font-size: 25px;
+        line-height: 29px;
+        margin-bottom: 6px;
+    }
+    .hhd-lft-slct label {
+        font-size: 18px;
+        line-height: 24px;
+    }
+    .hhd-lft-slct select {
+        font-size: 19px;
+        line-height: 26px;
+        background-size: 24px;
+    }
+    .hhd-lft-date label {
+        width: 81px;
+        font-size: 19px;
+        line-height: 25px;
+        margin-right: 4px;
+    }
+    .hhd-lft-date input {
+        padding: 4px 4px 4px 20px;
+        background-size: 19px;
+        font-size: 17px;
+        line-height: 28px;
+        /* width: 19px; */
+        width: 140px;
+        text-align: right;
+    }
+    input.hhd-srch {
+        /* width: 528px; */
+        width: 500px;
+        height: 54px;
+        padding: 9px 16px 9px 40px;
+        background-size: 23px;
+        background-position: 11px center;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .his-two-lft h3, .his-two-r8 h3 {
+        font-size: 21px;
+        line-height: 29px;
+    }
+    .his-two-lft h5, .his-two-r8 h5 {
+        font-size: 18px;
+        line-height: 19px;
+    }
+    .rep-brd ul li a {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .rep-brd ul li a span {
+        margin-left: 3px;
+    }
+    .his-box-three a {
+        border-radius: 12px;
+        width: 207px;
+        height: 55px;
+        padding: 10px;
+        font-size: 20px;
+        line-height: 23px;
+    }
+    .empl-box h3{        
+        font-size: 15px;
+        line-height: 17px;
+        }
+    .empl {
+        padding: 16px 16px 0px 16px;
+    }
+    .fill-inr-box h4 {
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .fill-inr-box h4 span {
+        width: 7px;
+        height: 7px;
+        margin-right: 5px;
+    }
+    a.add-more {
+        width: 328px;
+        height: 43px;
+        font-size: 20px;
+        line-height: 29px;
+        padding: 10px;
+    }
+
+    .for-pas-rec .hhd-lft-slct select{
+        height: 54px;
+     }
+}
+/* ------------------1599px-----------------  */
+
+@media screen and (max-width:1499px){
+   /*  .left-bar {
+        width: 315px;
+    } */
+    .lft-bar-inr ul li a {
+        padding: 20px 20px 20px 42px;
+        font-size: 18px;
+        line-height: 18px;
+    }
+    .lft-bar-inr ul li a img {
+        width: 22px;
+        height: 22px;
+        margin-right: 12px;
+    }
+    .lft-bar-inr ul li a::after {
+        width: 6px;
+    }
+    .right-page {
+        margin-top: 110px;
+        padding: 50px 23px 23px 23px;
+        /* width: calc(100% - 315px); */
+    }
+    .signature-btns{
+        flex-wrap:  wrap;
+    }
+    header {
+        padding: 17px 23px;
+    }
+    .lft-bar-inr {
+        margin-top:35px;
+        padding-bottom: 0px;
+    }
+    .fill1, .fill2, .fill3, .fill4, .fill5, .fill6 {
+        padding: 22px 13px;
+    }
+    .left-bar a.logo-header{
+        width: 210px;
+        height: 50px;
+    }
+    .empl-box h3{
+        padding: 8px;
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .fill-inr-box h4 {
+        font-size: 19px;
+        line-height: 23px;
+    }
+    .fill-inr-box h4 span {
+        width: 8px;
+        height: 8px;
+        margin-right: 8px;
+    }
+    a.add-more {
+        width: 290px;
+        height: 42px;
+        font-size: 19px;
+        line-height: 27px;
+        padding: 10px;
+    }
+    .hdr-date h3,
+    .hd-r8-name h3 {
+        font-size: 20px;
+        line-height: 28px;
+    }
+    .hdr-date p,
+    .hd-r8-name p{
+        font-size: 17px;
+        line-height: 21px;
+    }
+    .hd-r8-img {
+        width: 60px;
+        height: 60px;
+        margin-left: 9px;
+    }
+    .fill-grand h2 {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .fill-grand .empl-box input {
+        font-size: 23px;
+        line-height: 33px;
+    }
+    .sign-btns-right a {
+        margin-left: 20px;
+        padding: 19px 42px;
+    }
+}
+/* ------------------1499px-----------------  */
+
+@media screen and (max-width:1399px){
+
+    .fill-box label {
+        font-size: 14px;
+        line-height: 22px;
+    }
+
+
+    input.hhd-srch {
+        width: 412px;
+        height: 51px;
+        border: 1px solid #000000;
+        border-radius: 11px;
+        padding: 7px 7px 7px 33px;
+        background-size: 20px;
+        background-position: 7px center;
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .hhd-lft-date label {
+        width: 73px;
+        font-size: 17px;
+        line-height: 23px;
+        margin-right: 4px;
+    }
+    .hhd-lft-date input {
+        padding: 4px 4px 4px 21px;
+        background-size: 17px;
+        font-size: 15px;
+        line-height: 30px;
+        width: 124px;
+    }
+    .hhd-lft-slct label {
+        font-size: 17px;
+        line-height: 21px;
+    }
+    .hhd-lft-slct select {
+        padding: 7px 7px 7px 21px;
+        font-size: 15px;
+        line-height: 35px;
+        min-width: 59px;
+        background-size: 17px;
+        border: 1px solid #323232;
+        width: 231px;
+    }
+    .rep-brd ul li a {
+        font-size: 16px;
+        line-height: 19px;
+    }
+    .rep-id h5 {
+        font-size: 17px;
+        line-height: 20px;
+    }
+    .his-two-lft h5, .his-two-r8 h5 {
+        font-size: 18px;
+        line-height: 23px;
+        margin-bottom: 3px;
+    }
+    .his-two-lft h3, .his-two-r8 h3 {
+        font-size: 19px;
+        line-height: 21px;
+    }
+    .his-box-three a {
+        border-radius: 13px;
+        width: 187px;
+        height: 54px;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 17px;
+        line-height: 29px;
+        margin-left: 10px;
+    }
+    .his-box-two {
+        padding-bottom: 20px;
+        margin-bottom: 10px;
+        margin-top: 20px;
+    }
+    .for-pas-rec .hhd-lft-slct select{
+        border: 1px solid #000;
+        height: 51px;
+     }
+     .for-pas-rec .hhd-lft-slct select:hover,
+    .for-pas-rec .hhd-lft-slct select:focus,
+    .for-pas-rec .hhd-lft-slct select:focus-visible,
+    .for-pas-rec .hhd-lft-slct select:focus-within{
+        border: 1px solid var(--main-blue);
+    }
+}
+/* ------------------1399px-----------------  */
+
+@media screen and (max-width:1299px){
+    .left-bar {
+        width: 252px;
+    }
+    a.logo-header,
+    .left-bar a.logo-header {
+        width: 179px;
+        height: 43px;
+    }
+    .lft-bar-inr ul li a {
+        padding: 15px 15px 15px 36px;
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .lft-bar-inr ul li a img {
+        width: 16px;
+        height: 16px;
+        margin-right: 7px;
+    }
+    .lft-bar-inr ul li a span.arw {
+        width: 16px;
+        height: 16px;
+        margin-left: 16px;
+    }
+    .right-page {
+        margin-top: 110px;
+        padding: 50px 23px 23px 23px;
+        width: calc(100% - 251px);
+    }
+    .hdr-date h3, .hd-r8-name h3 {
+        font-size: 17px;
+        line-height: 21px;
+    }
+    .hdr-date p,
+    .hd-r8-name p{
+        font-size:15px;
+        line-height:19px;
+    }
+    .r8-page-heading {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+    .right-page {
+        margin-top: 87px;
+    }
+    .hd-r8-img {
+        width: 56px;
+        height: 56px;
+    }
+    .fill-date.fill-box input {
+        padding: 10px 21px 10px 10px;
+        background-size: 18px;
+    }
+    .r8-filler-inr {
+        padding-top: 0px;
+    }
+    .exp-date ul li label {
+        margin-right: 4px;
+        padding: 10px;
+        font-size: 16px;
+        line-height: 25px;
+        min-width: 122px;
+    }
+    .fill-inr-box h4 {
+        margin-bottom: 20px;
+        font-size: 18px;
+        line-height: 23px;
+    }
+    .fill-inr-box h4 span {
+        width: 5px;
+        height: 5px;
+        margin-right: 6px;
+    }
+    .fill-top select {
+        margin-left: 22px;
+        background-size: 18px;
+        font-size: 16px;
+        line-height: 21px;
+        padding: 0px 25px 5px 8px !important;
+    }
+    a.add-more {
+        width: 291px;
+        height: 43px;
+        font-size: 19px;
+        line-height: 23px;
+        padding: 10px;
+    }
+    .fill-box input,
+    .fill-box-file{
+        height: 45px;
+    }
+    .fill-box-file h3 {
+        font-size: 15px;
+        line-height: 18px;
+        color: #6d6d6d;
+    }
+    .aft_log_top_menu ul li a{
+        padding: 11px 11px 11px 37px;
+        font-size: 15px;
+        line-height: 17px;
+    }
+    .empl-box label {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .empl-box input {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .header-r8 {
+    width: 87.75%;
+}
+.for-pas-rec input.hhd-srch {
+    width: 590px;
+}
+.req-lft span, .req-mid span {
+    font-size: 16px;
+    line-height: 23px;
+}
+.req-lft h3, .req-mid h3 {
+    font-size: 24px;
+    line-height: 25px;
+}
+.req-right a {
+    height: 61px;
+    padding: 14px;
+    font-size: 21px;
+    line-height: 29px;
+}
+.sign-btns-right a {
+    padding: 19px 25px;
+}
+}
+/* ------------------1299px-----------------  */
+
+@media screen and (max-width:1199px){
+    .log-lft-txt h1 {
+        font-size: 63px;
+        line-height: 50px;
+    }
+    .log-lft-txt p {
+        font-weight: 300;
+        font-size: 15px;
+        line-height: 21px;
+        margin-top: 7px;
+    }
+    .log-lft-inr h3 {
+        left: 100px;
+        bottom: 25px;
+        font-size:16px;
+        line-height: 21px;
+    }
+    .log-r8-inr h2 {
+        font-size: 29px;
+        line-height: 23px;
+        margin-bottom: 10px;
+    }
+    .log-r8-inr p {
+        font-size: 16px;
+        line-height: 21px;
+    }
+    .log-r8-frm {
+        margin-top: 15px;
+    }
+    .log-paper-right {
+        padding: 29px 62px;
+    }
+
+
+
+    .exp-date h3 {
+        font-size: 17px;
+        line-height: 19px;
+        width: 170px;
+        height: 48px;
+        margin-bottom: 4px;
+    }
+    .exp-date h3 img {
+        display: block;
+        width: 17px;
+        height: 17px;
+    }
+    .exp-date ul li label {
+        font-size: 15px;
+        line-height: 23px;
+    }
+    .exp-date {
+        margin-bottom: 10px;
+    }
+    .right-page {
+        margin-top: 93px;
+        padding: 11px 23px 23px 23px;
+    }
+    .r8-page-heading h2 {
+        font-size: 24px;
+        line-height: 28px;
+        margin-bottom: 4px;
+    }
+    .r8-page-heading p {
+        font-size: 15px;
+        line-height: 19px;
+    }
+    .r8-page-heading h4 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .r8-page-heading {
+        margin-bottom: 20px;
+        width: 100%;
+    }
+    header {
+        padding: 17px 10px;
+    }
+    .fill-grand {
+        padding: 18px;
+        border-top: 1px solid #E1E1E1;
+        margin-top: 10px;
+    }
+    .fill-grand .empl-box input {
+        padding: 10px 162px 10px 10px;
+        font-size: 22px;
+        line-height: 32px;
+    }
+    .fill-grand h2 {
+        font-size: 19px;
+        line-height: 25px;
+    }
+    .fill-grand .empl-box h4 {
+        font-size: 14px;
+        line-height: 20px;
+        margin-top: 3px;
+    }
+    button.fill-submit {
+        border-radius: 10px;
+        width: 234px;
+        height: 49px;
+        font-weight: 600;
+        font-size: 21px;
+        line-height: 25px;
+    }
+
+    .hhd-lft-slct {
+        margin-right: 20px;
+    }
+    input.hhd-srch {
+        width: 321px;
+    }
+    .hhd-lft-date label {
+        width: 73px;
+        font-size: 15px;
+        line-height: 21px;
+        margin-right: 1px;
+    }
+    .hhd-lft-date input {
+        padding: 2px 2px 2px 21px;
+        background-size: 15px;
+        font-size: 14px;
+        line-height: 28px;
+        width: 111px;
+    }
+    .hhd-lft-slct label {
+        font-size: 15px;
+        line-height: 19px;
+        margin-right: 0px;
+    }
+    .hhd-lft-slct select {
+        padding: 7px 21px 7px 7px ;
+        font-size: 15px;
+        line-height: 35px;
+        min-width: 53px;
+        background-size: 16px;
+    }
+    .header-r8 {
+        width: 75.75%;
+    }
+    .r8-page-heading h2 {
+        font-size: 21px;
+        line-height: 25px;
+        margin-bottom: 4px;
+    }
+    .r8-page-heading p {
+        font-size: 14px;
+        line-height: 19px;
+    }
+    .r8-page-heading h4 {
+        font-size: 14px;
+        line-height: 14px;
+    }
+
+    /* ///////////////////////// */
+    .policies_areaa_box span {
+        width: 60px;
+      }	
+      .policies_areaa_box span img {
+        width: 100%;
+      }
+      .policies_areaa_box h3 {
+        margin: 17px 0 0 0 !important;
+      }
+      .policies_areaa_box a {
+        height: 49px;
+        font-size: 17px;
+        padding: 10px 0 0 0;
+        margin: 12px 0 0 0;
+      }
+      .for-pas-rec input.hhd-srch {
+        width: 491px;
+    }
+    .req-lft span, .req-mid span {
+        font-size: 14px;
+        line-height: 23px;
+    }
+    .req-lft h3, .req-mid h3 {
+        font-size: 22px;
+        line-height: 25px;
+    }
+    .pass-req-box {
+        padding: 16px 16px;
+    }
+    .logout-modal .reject_approv_btn button, .logout-modal .reject_approv_btn a {
+        height: 49px !important;
+        line-height: 16px !important;
+     }
+}
+/* ------------------1199px-----------------  */
+
+@media screen and (max-width:1099px){}
+/* ------------------1099px-----------------  */
+
+@media screen and (max-width:1024px){
+
+    .orderr p {
+        width: 100%;
+        padding: 0;
+      }
+      .orderr {
+        padding: 0;
+        margin: 0;
+      }
+      .orderr > .mbr2{
+          padding: 0;
+        margin: 0;
+      }
+      .empl {
+        padding: 16px 16px 19px 16px;
+      }
+}
+/* ------------------1024px-----------------  */
+
+@media screen and (max-width:991px){
+    .log-lft-txt {
+        width: 549px;
+        max-width: calc(100% - 65px);
+    }
+    .logo {
+        top: 25px;
+        left: 24px;
+        width: 196px;
+        height: 48px;
+    }
+    .log-lft-inr h3 {
+        left: 34px;
+    }
+    .log-lft-img {
+        left: 50%;
+        transform: translateX(-50%);
+        width: auto;
+    }
+    .log-paper-left {
+        overflow: hidden;
+    }
+    .pass-r8{
+        padding:40px 30px;
+    }
+    .pass-r8 .log-r8-inr button.log-frm-btn {
+        width: 240px;        
+    padding: 11px;
+    font-size: 19px;
+    line-height: 20px;
+
+    }
+
+
+    /* 16-03-2023 */
+    .left-bar{
+        transition: all 0.5s ease;
+        transform: translateX(-100%);
+    }
+    .left-bar.left100{
+        transform: translateX(-100%);
+    }
+    .left-bar.left0{
+        transform: translateX(0%);
+    }
+    button.menu-lft{
+        display: flex;
+    }
+    .right-page {
+        margin-top: 93px;
+        padding: 11px 23px 23px 23px;
+        width: 100%;
+    }
+    .left-bar a.logo-header {
+       display: none;
+    }
+    .left-bar {
+        height: calc(100vh - 90px);
+        top:83px;
+        padding-top: 0px;
+    }
+    .lft-bar-inr {
+        margin-top: 0px;
+        padding-bottom: 0px;
+    }
+    a.logo-header.logo-vis {
+        opacity:1;
+    }
+    button.menu-lft {
+        width: 40px;
+        height: 40px;
+        margin-left: 32px;
+    }
+    button.menu-lft img {
+        width:100%;
+        height: 100%;
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+    }
+    .hdr-date h3, .hd-r8-name h3 {
+        font-size: 15px;
+        line-height: 18px;
+    }
+    .hdr-date p, .hd-r8-name p {
+        font-size: 13px;
+        line-height: 22px;
+    }
+    .hd-r8-img {
+        width: 48px;
+        height: 48px;
+    }
+
+    a.logo-header{
+        width: 145px;
+        height: 34px;
+    }
+    .empl {
+        padding: 15px 15px 15px 15px;
+    }
+    .empl h3 {
+        font-size: 20px;
+        line-height: 21px;
+        margin-bottom: 12px;
+    }
+    .empl-box {
+        margin-bottom: 10px;
+        width: 100%;
+    }
+
+    .empl-box label {
+        font-size: 14px;
+        line-height: 16px;
+    }
+
+    .empl-box input {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    /* 16-03-2023 */
+
+
+
+    .header-r8 {
+        width: 67.75%;
+    }
+    .header-lft {
+        width: 29.25%;
+    }
+    .empl h3 {
+        font-size: 17px;
+        line-height: 17px;
+        margin-bottom: 12px;
+    }
+    .empl-box h3 {
+        padding: 8px;
+        font-size: 14px;
+        line-height: 22px;
+    }
+    .exp-date ul li label {
+        font-size: 12px;
+        line-height: 19px;
+        min-width: 94px;
+    }
+    .exp-date h3 {
+        font-size: 16px;
+        line-height: 16px;
+        width: 162px;
+        height: 43px;
+        margin-bottom: 4px;
+    }
+    a.add-more {
+        width: 210px;
+        height: 36px;
+        font-size: 16px;
+        line-height: 18px;
+        padding: 10px;
+    }
+    .fill-grand .empl-box input {
+        padding: 10px 161px 10px 10px;
+        font-size: 19px;
+        line-height: 30px;
+        font-weight: 700;
+    }
+    .fill-grand h2 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .fill-grand {
+        padding: 12px;
+    }
+    button.fill-submit {
+        border-radius: 8px;
+        width: 188px;
+        height: 43px;
+        font-weight: 600;
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .fill-inr-box h4 {
+        margin-bottom: 9px;
+    }
+
+/*================NEW CSS RABIN START 28.03.2023====================*/
+    .modal-dialog {
+        max-width: 90%;
+      }	
+      .for_pop_sld .center {
+        transform: scale(1);
+      }
+      .modal-header h4 {
+        font-size: 19px;
+        line-height: 26px;
+        font-weight: 600;
+      }
+
+      .ddlss .empl {
+        padding:0 !important;
+    }
+    .logout-modal .modal-body h4{
+    font-size: 33px;
+    line-height: 44px;
+    }
+    .stamps-div img {
+        width: 100px;
+        height: 100px;
+    }
+    .det-stamp {
+        top: 54px;
+        right: 15px;
+    }
+    .det-stamp img {
+        width: 90px;
+        height: 90px;
+        margin-left: 15px;
+    }
+}
+/* ------------------991px-----------------  */
+
+@media screen and (max-width:800px){}
+/* ------------------800px-----------------  */
+
+@media screen and (max-width:767px){
+    .log-paper {
+        height: auto;
+        flex-wrap: wrap;
+    }
+    .log-paper-left,
+    .log-paper-right{
+        width: 100%;
+    }
+    .log-paper-left {
+        height: 400px;
+    }
+    .log-lft-img {
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        height: auto;
+    }
+    .log-lft-txt {
+        width: fit-content;
+        max-width: 80%;
+    }
+    .log-lft-txt h1,
+    .log-lft-txt p{
+        text-align: center;
+    }
+    .log-lft-inr h3 {
+        left:50%;
+        transform: translateX(-50%);
+    }
+    .log-frm-box input {
+        height: 49px;
+        padding: 12px 13px;
+        border-radius: 8px;
+        font-size: 17px;
+        line-height: 25px;
+    }
+
+    a.forgot {
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 19px;
+        margin-bottom: 16px;
+        margin-top: 5px;
+    }
+    button.log-frm-btn {
+        border-radius: 10px;
+        padding: 14px;
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .log-frm-box i {
+        top: 39px;
+    }
+
+
+
+    .hdr-date {
+        margin-left: 26px;
+    }
+    .hd-r8-img {        
+    width: 42px;
+    height: 42px;
+        margin-left: 5px;
+    }
+    header {
+        padding: 8px 10px;
+    }
+    .right-page {
+        margin-top: 58px;
+    }
+
+
+    .header-lft {
+        width: 40.25%;
+    }
+    .header-r8 {
+        width: 57.75%;
+    }
+
+
+
+    .his-two-lft h3, .his-two-r8 h3 {
+        font-size: 16px;
+        line-height: 18px;
+    }
+    .his-two-lft h5, .his-two-r8 h5 {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .rep-brd ul li a {
+        font-size: 13px;
+        line-height: 19px;
+    }
+    .his-box-three a {
+        width: 151px;
+        height: 45px;
+        padding: 10px;
+        font-size: 16px;
+        line-height: 27px;
+    }
+    .hhd-lft{
+        flex-wrap: wrap;
+    }
+    input.hhd-srch {
+        width: 402px;
+    }
+    .hhd-lft-date {
+        margin: 7px 0px 0px auto;
+    }
+    .hhd-lft-date input {
+        width: 15px;
+    }
+
+    .ddlss .empl {
+        padding:0 !important;
+    }
+    
+   
+    
+    .r8-page-heading h2 {
+      font-size: 15px;
+      line-height: 17px;
+    }
+    .r8-page-heading h2 > img {
+      width: 13px;
+      margin: 5px 4px 0 4px;
+    }
+    .deta-span {
+      width: calc(100% - 112px);
+    }
+    .titel-span {
+      width: 112px;
+    }
+    .res_full{
+        width:100% !important;
+    }
+    .res_full span {
+      width: 100% !important;
+      padding: 0;
+    }
+    .fill-inr-box h4 {
+      font-size: 15px;
+      line-height: 20px;
+    }
+    .for-pas-rec input.hhd-srch {
+        width: 393px;
+    }
+    .req-right {
+        width: 153px;
+    }
+    .req-right a {
+        height: 55px;
+        padding: 14px;
+        font-size: 19px;
+        line-height: 24px;
+    }
+}
+/* ------------------767px-----------------  */
+@media screen and (max-width:700px){
+    .history-hd{
+        flex-wrap: wrap;
+    }
+    .hhd-r8{
+        margin: 5px 0px 0px 0px;
+        width: 100%;
+    }
+    input.hhd-srch {
+        width: 100%;
+    }
+    .hhd-lft{
+        width: 100%;
+        justify-content: space-between !important;
+    }
+    .his-box-one{
+        flex-wrap: wrap;
+    }
+    .rep-id{
+        margin: 5px 0px 0px auto;
+    }
+    .hhd-lft-date {
+        margin: 7px auto 0px 0px;
+    }
+    .for-pas-rec input.hhd-srch {
+        width: 100%;
+    }
+    .for-pas-rec .hhd-lft-slct {
+        width:100%;
+        margin-right:0px;
+    }
+}
+/* ------------------700px-----------------  */
+
+
+@media screen and (max-width:599px){}
+/* ------------------600px-----------------  */
+
+@media screen and (max-width:575px){
+
+    .header-inr{
+        flex-wrap: wrap;
+    }
+    .header-r8 {
+        width: 100%;
+        margin: 0% 0px 0px auto;
+    }
+    .right-page {
+        margin-top: 104px;
+    }
+    .left-bar {
+        top: 106px;
+    }
+    header {
+        padding: 6px 0px;
+    }
+    .header-lft {
+        width: 100%;
+        justify-content: space-between !important;
+        flex-wrap: wrap;
+    }
+    
+    a.logo-header,
+    .menu-lft,
+    .hdr-date{
+        width: 50%;
+    }
+    a.logo-header{
+        justify-content: flex-start;
+    }
+    a.logo-header img {
+        width: auto;
+        height: auto;
+        max-width: 100%;
+        max-height: 100%;
+        display: block;
+    }
+    .hdr-date {
+        margin-left:0px;
+        margin-top: 10px;
+    }
+    .his-two-lft h3, .his-two-r8 h3 {
+        font-size: 16px;
+        line-height: 17px;
+    }
+    .his-two-lft h5, .his-two-r8 h5 {
+        font-size: 16px;
+        line-height: 21px;
+        margin-bottom: 2px;
+    }
+    .his-box-three a {
+        border-radius: 11px;
+        width: 146px;
+        height: 42px;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 15px;
+        line-height: 29px;
+        margin-left: 8px;
+    }
+    .right-page {
+        padding: 11px 11px 11px 11px;
+    }
+    .r8-page-heading p {
+        font-size: 13px;
+        line-height: 14px;
+        margin-bottom: 8px;
+    }
+    .r8-page-heading h4 {
+        font-size: 13px;
+        line-height: 14px;
+    }
+    .fill-top select {
+        background-size: 14px;
+        font-size: 13px;
+        line-height: 18px;
+        padding: 0px 14px 3px 5px !important;
+        min-width: 102px;
+    }
+    .fill-top select {
+    }
+
+
+    /*================NEW CSS RABIN START 28.03.2023====================*/
+.modal-dialog {
+    max-width: 100%;
+  }
+  .sign-btns-right a {
+    margin-right: 20px;
+    border-radius: 15px;
+    padding: 4px 12px;
+    font-size: 15px;
+    font-weight: 700;
+    margin-left: 0px;
+}
+.stamps-div{
+    top: 3px;
+}
+.stamps-div img {
+    width: 70px;
+    height: 70px;
+    margin-left:4px;
+}
+.det-stamp {
+    top: 3px;
+    right: 3px;
+}
+.det-stamp img {
+    width: 54px;
+    height: 54px;
+    margin-left: 8px;
+}
+}
+
+
+
+/* ------------------575px-----------------  */
+
+@media screen and (max-width:500px){}
+/* ------------------480px-----------------  */
+
+@media screen and (max-width:480px){
+    .log-lft-txt h1 {
+        font-size: 45px;
+        line-height: 50px;
+    }
+    .log-lft-txt p {
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 24px;
+        margin-top: 15px;
+    }
+    .log-lft-inr h3 {
+        font-size: 14px;
+        line-height: 21px;
+    }
+    .log-r8-inr h2 {
+        font-size: 24px;
+        line-height: 16px;
+        margin-bottom: 7px;
+    }
+    .log-frm-box label {
+        margin-bottom: 3px;
+        font-weight: 500;
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .logout-modal .modal-body h4{
+        font-size: 26px;
+        line-height: 33px;
+        }
+        .logout-modal .reject_approv_btn button, .logout-modal .reject_approv_btn a {
+           height: 43px !important;
+           line-height: 7px !important;
+        }
+}
+/* ------------------480px-----------------  */
+
+@media screen and (max-width:400px){
+    .hhd-lft-slct {
+        margin-right: 0px;
+    }
+    .hhd-lft-date label {
+        width: 64px;
+        font-size: 14px;
+        line-height: 20px;
+        margin-right: 1px;
+    }
+    .hhd-lft-date input {
+        padding: 2px 2px 2px 21px;
+        background-size: 14px;
+        font-size: 13px;
+        line-height: 27px;
+        width: 103px;
+    }
+    .hhd-lft-slct label {
+        font-size: 14px;
+        line-height: 19px;
+        margin-right: 0px;
+    }
+    .hhd-lft-slct select {
+        padding: 2px 12px 2px 2px;
+        font-size: 14px;
+        line-height: 20px;
+        min-width: 46px;
+        background-size: 15px;
+    }
+    .his-box-two{
+        flex-direction: column;
+        justify-content: flex-start !important;
+        align-items: flex-start !important;
+    }
+    .his-two-r8{
+        margin-top: 10px;
+    }
+    .his-two-r8 h5, .his-two-r8 h3 {
+        text-align:left;
+    }
+    .his-box-two {
+        padding-bottom: 10px;
+        margin-bottom: 8px;
+        margin-top: 16px;
+    }
+    .rep-id {
+        margin: 5px 0px 0px 0px;
+    }
+
+    .req-right a {
+        height: 46px;
+        padding: 12px;
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .req-right {
+        width: 136px;
+    }
+    .req-lft h3, .req-mid h3 {
+        font-size: 18px;
+        line-height: 14px;
+    }
+    .sign-btns-right a {
+        padding: 4px 6px;
+        font-size: 12px;
+    }
+    .stamps-div img {
+        width: 70px;
+        height: 70px;
+        margin-left: 15px;
+    }
+}
+/* ------------------400px-----------------  */
+
+@media screen and (max-width:360px){
+    .his-box-three a {
+        height: 40px;
+        padding: 4px;
+        font-size: 14px;
+        line-height: 29px;
+    }
+    .stamps-div img {
+        width: 50px;
+        height: 50px;
+        margin-left: 4px;
+    }
+}
+/* ------------------360px-----------------  */
