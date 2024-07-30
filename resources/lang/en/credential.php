@@ -1,0 +1,21 @@
+<?php
+return[
+    'field_required' => 'This field is required', 
+    'not_enter_more_than_30' => 'Please not to enter more than 30 characters.',
+    'not_enter_more_than_50' => 'Please not to enter more than 50 characters.',
+    'not_enter_more_than_80' => 'Please not to enter more than 80 characters.',
+    'not_enter_more_than_12' => 'Please not to enter more than 12 characters.',
+    'not_enter_more_than_250' => 'Please not to enter more than 250 characters.',
+    'email_already_registered' => 'Email is already registered',
+    'phone_already_registered' > 'Number is already registered',
+    'enter_number_only' => 'Please enter numbers only',
+    'min_enter_8' => 'Please enter more than 8 characters',
+    'min_enter_4' => 'Please enter more than 4 characters',
+    'not_enter_than_8_digit' => 'Please  enter more than 8 digits',
+    'not_enter_than_15_digit' => 'Please  enter more than 15 digits',
+    'not_enter_more_than_15' => 'Please  enter mor than 15 characters.',
+    'confirm_should_equal_to_password' => 'Confirm passowrd should be equal to Password',
+    'Please_login_or_register' => 'Please Login or Register to continue Booking',
+    'enter_valid_email' => 'Please enter a valid email address.',
+    'Please_enter_correct_pass' => 'Please enter correct password',
+];
